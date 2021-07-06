@@ -14,8 +14,12 @@ Install the dependencies.
 pip install -r requirements.txt
 ```
 
-For production environments...
+## How to use
 
+
+This Program will work on cross platforms,
+
+Note : Make sure you have bash command in environmental variable..
 ```sh
 Windows
 py runme.py
